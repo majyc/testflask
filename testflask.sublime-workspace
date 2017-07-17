@@ -1,0 +1,278 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"de",
+				"declarative_base"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 186.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/jmacy.ENTECH/Documents/testflask",
+		"/C/Users/jmacy.ENTECH/Documents/testflask/templates"
+	],
+	"file_history":
+	[
+		"/C/Users/jmacy.ENTECH/Documents/testflask/testflask.sublime-project",
+		"/C/Users/jmacy.ENTECH/Documents/testflask/hello.py",
+		"/C/Program Files/Git/mingw64/etc/gitconfig",
+		"/C/Users/jmacy.ENTECH/Documents/testflask/templates/layout.html",
+		"/C/Users/jmacy.ENTECH/Documents/testflask/templates/hello.html",
+		"/C/Users/jmacy.ENTECH/Documents/testflask/templates/page_not_found.html",
+		"/C/Users/jmacy.ENTECH/Documents/testflask/templates/navbar.html",
+		"/C/Users/jmacy.ENTECH/Documents/testflask/templates/about.html",
+		"/C/Users/jmacy.ENTECH/Documents/testsql/testsql.py",
+		"/C/Users/jmacy.ENTECH/Documents/repos/reportlab/docs/Makefile",
+		"/C/Users/jmacy.ENTECH/Documents/repos/bitbucket_app_pwd.txt",
+		"/C/Users/jmacy.ENTECH/Documents/repos/reportlab/docs/make.bat",
+		"/C/Users/jmacy.ENTECH/Documents/testsql.py",
+		"/C/Users/jmacy.ENTECH/Downloads/py36-32.reg",
+		"/C/dev/WS.Shared/DataAccess/VTEK.AppWorks.DA.ProcedureStubs/VTEK.AppWorks.DA.ProcedureStubs.csproj",
+		"/C/dev/WS.Shared/packages/VTEK.Database.Oracle.ODP.9.2.0-build0001/VTEK.Database.Oracle.ODP.9.2.0-build0001.nupkg",
+		"/C/dev/MEFA.Loans/MEFA.Loans/Models/Loan/LoanListModel.cs",
+		"/C/dev/MEFA.Loans/MEFA.Loans/Controllers/EduController.cs",
+		"/C/dev/MEFA.Loans/MEFA.Loans/MEFA.Loans.csproj",
+		"/C/ProgramData/Git/config",
+		"/C/Users/jmacy.ENTECH/Downloads/Presentation Document Title.xml",
+		"/C/Users/jmacy.ENTECH/Downloads/Test Slide Output Formatting.xml",
+		"/C/Users/jmacy.ENTECH/Documents/cutandpaste.txt",
+		"/C/Users/jmacy.ENTECH/Documents/testSelenium.py",
+		"/C/Users/jmacy.ENTECH/Downloads/traceLog.txt",
+		"/C/dev/AppWorksLenderWeb/AppWorksLenderWeb/App_Data/UserAdministrationServices.cs",
+		"/C/Users/jmacy.ENTECH/Downloads/examplebug.txt",
+		"/C/Users/jmacy.ENTECH/Documents/testflask/page_not_found.html",
+		"/C/Users/jmacy.ENTECH/Documents/changepassword_soap.xml",
+		"/C/dev/AppWorksLenderWeb2/AppWorksLenderWeb/AppWorksLenderWeb/AppCode/Util.cs",
+		"/C/Users/jmacy.ENTECH/testflask/hello.py",
+		"/C/Users/jmacy.ENTECH/Documents/Web_CFGQA.Config",
+		"/C/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/vcvars64.bat",
+		"/C/Users/jmacy.ENTECH/AppData/Roaming/dub/packages/dlang_koans-0.0.14/dlang_koans/source/00_about_empty_template.d",
+		"/C/Users/jmacy.ENTECH/Documents/smart_table.xsd",
+		"/C/D/dmd2/windows/bin/sc.ini",
+		"/C/oracle/network/admin/tnsnames.ora",
+		"/C/Users/jmacy.ENTECH/.gitconfig",
+		"/C/Users/jmacy.ENTECH/Documents/cutandpaste.tt",
+		"/C/Users/jmacy.ENTECH/AppData/Roaming/Sublime Text 3/Packages/Advanced CSV/AdvancedCSV.sublime-settings",
+		"/C/Users/jmacy.ENTECH/AppData/Roaming/Sublime Text 3/Packages/User/AdvancedCSV.sublime-settings",
+		"/C/Users/jmacy.ENTECH/Documents/test.csv",
+		"/C/Users/jmacy.ENTECH/Documents/quark-invalidxmlbug.xml",
+		"/C/Users/jmacy.ENTECH/Documents/Test Slide Output Formatting.xml",
+		"/C/Users/jmacy.ENTECH/AppData/Roaming/Sublime Text 3/Packages/HexViewer/Default (Windows).sublime-keymap",
+		"/C/dev/AppWorksLenderWeb/AppWorksLenderWeb/AppCode/Controller/AWMembershipServices.cs",
+		"/C/dev/AppWorksLenderWeb/AppWorksLenderWeb/AppCode/Controller/AWMembershipProvider.cs",
+		"/C/Users/jmacy.ENTECH/Downloads/Effective Marketing in the Institutional Channel.xml",
+		"/C/Users/jmacy.ENTECH/Documents/quark-invalidxmlstacktrace.txt",
+		"/C/Users/jmacy.ENTECH/.ssh/id_rsa.pub",
+		"/C/Users/jmacy.ENTECH/Documents/WS.Prospect/.vs/config/applicationhost.config",
+		"/C/Users/jmacy.ENTECH/Documents/WS.Prospect/Contracts/DC/packages.config",
+		"/C/Users/jmacy.ENTECH/Documents/test.html",
+		"/C/Users/jmacy.ENTECH/Documents/WS.Prospect/WS.Prospect.Domain.Interface/WS.Prospect.Domain.Interface.csproj",
+		"/C/Users/jmacy.ENTECH/Documents/WS.Prospect/Contracts/DC/WS.Prospect.DC.csproj",
+		"/C/Users/jmacy.ENTECH/Documents/WS.Prospect/Server/Host/WS.Prospect.Server.Host/WS.Prospect.Host.csproj",
+		"/C/Users/jmacy.ENTECH/Documents/WS.Prospect/WS.Prospect.Domain.Interface/packages.config",
+		"/C/Users/jmacy.ENTECH/Documents/WS.Prospect/WS.Prospect.sln",
+		"/C/Users/jmacy.ENTECH/Documents/markdown.txt",
+		"/C/Users/jmacy.ENTECH/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/README.md"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"c2",
+			"1.2.11",
+			"1.2.10",
+			"2.10"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "testflask.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

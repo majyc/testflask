@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+{% block title %}Hello from Entech!{% endblock %}
+{% block head %}
+  {{ super() }}
+  <style type="text/css">
+    .important { color: #336699; }
+    body { padding-top: 70px; }
+  </style>
+{% endblock %}
+{% set currentPage = 1 %}
+{% block content %}
+  <h1>Wilkommen, Bienvenue, Welcome!</h1>
+  <p class="important">
+    This is the hello page served up by Flask and Jinja.
+  </p>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/hBlB8RAJEEc" frameborder="0" allowfullscreen></iframe>
+{% endblock %}
