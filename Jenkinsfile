@@ -1,12 +1,21 @@
 #!groovy​
-
 pipeline {
-    agent { docker 'python:3.6.1' }
+    agent any
+
     stages {
-        stage('build') {
+        stage('Build') {
             steps {
-                bat 'python --version'
+                echo 'Building..'
+            }
+        }
+        stage('Test') {
+            steps {
+                echo 'Testing..'
+            }
+        }
+        stage('Deploy') {
+            steps {
+                echo 'Deploying....'
             }
         }
     }
-}
